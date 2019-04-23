@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/eduardev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://eduardopereira.pt
+  * I am eduardev (https://keybase.io/eduardev) on keybase.
+  * I have a public key ASBY_rXudEnm7Qb1FxQZINthpEHtu1xVJqqtmmPSsmLkIAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206ab5f4ae487df041a4c18f4416353cb55d674621804d403d039c82cd59982a270a",
+      "host": "keybase.io",
+      "kid": "012058feb5ee7449e6ed06f517141920db61a441edbb5c5526aaad9a63d2b262e4200a",
+      "uid": "fe6ea7b724e4eaf22ce121bb98c84919",
+      "username": "eduardev"
+    },
+    "merkle_root": {
+      "ctime": 1556059662,
+      "hash": "2b906786075375ff2e72da756300be44646a3b8efe28d9a8c7aa642fd3343d0d724477e5af13600f328fda283db60a20eeae838b9c5630d43c1334bed0afa533",
+      "hash_meta": "b24c205128bd21f0d0e03d6765314250bfda0c62e34b7552e50e2e3903e2796a",
+      "seqno": 5228601
+    },
+    "service": {
+      "entropy": "bdQRmV1Y/6phILuRo80243df",
+      "hostname": "eduardopereira.pt",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1556059680,
+  "expire_in": 504576000,
+  "prev": "0251d890fdb4a7b6340c9b821d065ba5a3cfeafc0fcc7fd43daaafc54d594dce",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWP617nRJ5u0G9RcUGSDbYaRB7btcVSaqrZpj0rJi5CAKp3BheWxvYWTESpcCCcQgAlHYkP20p7Y0DJuCHQZbpaPP6vwPzH/UPaqvxU1ZTc7EIHBslzrooVW4BDyXky3q+a213pV+eVEwOmA6W8MueqkYAgHCo3NpZ8RAcFRtkIdlY9BUVj11J9Pict33R+1sNmZGW4AIUNHCaO7ihAjQsNSep4extF4OtQg1Tyifm6efVXvjhfidE8dFCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO09NvotiQzD9/Lu4hgz/1ZN+RNOJHsK4bw2mFCy/vaMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eduardev
+
+==================================================================
