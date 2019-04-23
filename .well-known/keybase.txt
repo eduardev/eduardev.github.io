@@ -49,7 +49,7 @@ which yields the signature:
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWP617nRJ5u0G9RcUGSDbYaRB7btcVSaqrZpj0rJi5CAKp3BheWxvYWTESpcCCcQgAlHYkP20p7Y0DJuCHQZbpaPP6vwPzH/UPaqvxU1ZTc7EIHBslzrooVW4BDyXky3q+a213pV+eVEwOmA6W8MueqkYAgHCo3NpZ8RAcFRtkIdlY9BUVj11J9Pict33R+1sNmZGW4AIUNHCaO7ihAjQsNSep4extF4OtQg1Tyifm6efVXvjhfidE8dFCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO09NvotiQzD9/Lu4hgz/1ZN+RNOJHsK4bw2mFCy/vaMo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
-appending to this document.
+appending to this document
 
 View my publicly-auditable identity here: https://keybase.io/eduardev
 
